@@ -1,2 +1,2 @@
 # github-demo-udemy
-A simple demo repo for udemu
+A simple demo repo for udemy.
